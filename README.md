@@ -1,5 +1,5 @@
 # Taháky
 
-Taháky do různých předmětů, které lze použít při písemkách (aspoň tedy momentálně v našem případě). :)
+Taháky do různých předmětů k přiučení nebo písemným pracem
 
-Jsou vytvářeny v programech Paint.net a Word
+Momentálně vytvářeny v programech Paint.net
